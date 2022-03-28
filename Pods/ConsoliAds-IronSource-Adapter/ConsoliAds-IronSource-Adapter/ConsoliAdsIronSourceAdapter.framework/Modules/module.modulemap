@@ -1,0 +1,6 @@
+framework module ConsoliAdsIronSourceAdapter {
+  umbrella header "ConsoliAdsIronSourceAdapter.h"
+
+  export *
+  module * { export * }
+}

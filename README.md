@@ -1,1 +1,0 @@
-# consoliads-sdk-sample-ios

@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "939dea7f131af3a40a285ddf8814b236fb37e45ab99dd5d6761da41ae67bbc12"
+build_start_time: [1641907623, 657644033]
+build_end_time: [1641907626, 801271915]
+inputs:
+  "/Volumes/DataDrive/Framework & POD   Workspace/ConsoliAds Sample App (Swift+Pod)/ConsoliAds Sample App/AppDelegate.swift": !dirty [1638872140, 0]
+  ? "/Volumes/DataDrive/Framework & POD   Workspace/ConsoliAds Sample App (Swift+Pod)/ConsoliAds Sample App/Controllers/BaseVC/BaseVC.swift"
+  : !dirty [1639477568, 0]
+  ? "/Volumes/DataDrive/Framework & POD   Workspace/ConsoliAds Sample App (Swift+Pod)/ConsoliAds Sample App/Controllers/MainVC/ViewController-Extension.swift"
+  : !dirty [1641366911, 153942584]
+  ? "/Volumes/DataDrive/Framework & POD   Workspace/ConsoliAds Sample App (Swift+Pod)/ConsoliAds Sample App/Controllers/MainVC/ViewController-TableView-Extension.swift"
+  : !dirty [1640860323, 483185052]
+  ? "/Volumes/DataDrive/Framework & POD   Workspace/ConsoliAds Sample App (Swift+Pod)/ConsoliAds Sample App/Controllers/MainVC/ViewController.swift"
+  : !dirty [1641890121, 107993364]
+  ? "/Volumes/DataDrive/Framework & POD   Workspace/ConsoliAds Sample App (Swift+Pod)/ConsoliAds Sample App/Controllers/NativeVC/NativeVC.swift"
+  : !dirty [1640780731, 0]
+  ? "/Volumes/DataDrive/Framework & POD   Workspace/ConsoliAds Sample App (Swift+Pod)/ConsoliAds Sample App/Controllers/TableViewNativeAd/SampleNativeAdView.swift"
+  : !dirty [1640869936, 296958446]
+  ? "/Volumes/DataDrive/Framework & POD   Workspace/ConsoliAds Sample App (Swift+Pod)/ConsoliAds Sample App/Controllers/TableViewNativeAd/TableViewNativeAd.swift"
+  : !dirty [1641194821, 179152011]
+  ? "/Volumes/DataDrive/Framework & POD   Workspace/ConsoliAds Sample App (Swift+Pod)/ConsoliAds Sample App/Extensions/Extensions.swift"
+  : !dirty [1640860038, 54466724]
+  "/Volumes/DataDrive/Framework & POD   Workspace/ConsoliAds Sample App (Swift+Pod)/ConsoliAds Sample App/SceneDelegate.swift": !dirty [1638872140, 0]
