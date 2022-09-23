@@ -12,7 +12,7 @@ import ConsoliAdsSDK
 extension ViewController {
     func initConsoliAds() {
         self.showProgressBar()
-        CASdk.sharedPlugIn().initWithAppKey(userSignature, andDelegate: self, userConsent: true, devMode: self.isDev, viewController: self)
+        CASdk.sharedPlugIn().initWithUserSignature(userSignature, andDelegate: self, userConsent: true, devMode: self.isDev, viewController: self)
         self.isDevSwitch.isHidden = true
     }
     
